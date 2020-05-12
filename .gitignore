@@ -2,3 +2,5 @@
 /build
 /dist
 /xspfclean.egg-info
+xspfcleaner/__pycache__/
+/__pycache__
